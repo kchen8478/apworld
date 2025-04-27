@@ -7,4 +7,6 @@ search_exclude: true
 menu: nav/home.html
 ---
 
-{%- include nav/world/nations.html -%}
+<div style="display: flex; justify-content: center; align-items: center; ">
+  {%- include nav/world/nations.html -%}
+</div>
