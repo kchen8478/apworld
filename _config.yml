@@ -1,15 +1,15 @@
-title: Open Coding 
-description: "Class of 2025"
-owner_name: John Mortensen
+title: AP World
+description: "2025"
+owner_name: Katherine Chen
 github_username: nighthawkcoders
-github_repo: "portfolio_2025" 
-baseurl: "/portfolio_2025"
+github_repo: "apworld" 
+baseurl: "/apworld"
 future: true
 remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github, user_url: "https://github.com/nighthawkcoders"}
+    - { platform: github, user_url: "https://github.com/kchen8478"}
     - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 # remote_theme: pages-themes/midnight@v0.2.0
