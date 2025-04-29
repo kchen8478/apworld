@@ -24,6 +24,15 @@ tags: [Units]
   - [Spain](#spain)
   - [Europe](#europe)
   - [Mesoamerica](#mesoamerica)
+- [Key Regions and Civilizations](#key-regions-and-civilizations)
+- [Major Trade Networks](#major-trade-networks)
+- [Cultural and Religious Developments](#cultural-and-religious-developments)
+- [Technological and Scientific Advancements](#technological-and-scientific-advancements)
+- [Political Structures and Empires](#political-structures-and-empires)
+- [Social and Economic Systems](#social-and-economic-systems)
+- [Artistic and Intellectual Achievements](#artistic-and-intellectual-achievements)
+- [Environmental and Demographic Changes](#environmental-and-demographic-changes)
+
 
 ---
 
@@ -107,7 +116,7 @@ tags: [Units]
     - Invasions by Islamic powers led to **Delhi Sultanate**
     - Blending of Islamic and Indian culture → new architecture (Qutub Minar), Urdu language, etc.
     - **Kabir** (poet-saint): part of Bhakti movement, blurred lines between Islam and Hinduism
-    
+
 #### Spain:
 - **Spain (Al-Andalus):**
     - Muslim-ruled region with periods of religious tolerance
@@ -132,3 +141,131 @@ tags: [Units]
 - **Inca Empire:** Andes; road system, record keeping with **quipu**, terracing
     - **Pachacuti:** founder of Inca expansion, centralized bureaucracy
 - Polytheistic religion tied to astronomy, nature, sacrifice
+
+---
+## Key Developments in the Post-Classical Era (1200–1450)
+
+#### Key Regions and Civilizations
+- Major civilizations included the Islamic world, China under the Song and Yuan dynasties, and the Mongol Empire.
+- Islamic world spanned from the Iberian Peninsula to the Indian subcontinent.
+  - Abbasid Caliphate ruled until Mongol conquest of Baghdad (1258).
+  - Mamluk Sultanate (Egypt) and Delhi Sultanate (India) were powerful Islamic states.
+- Song Dynasty (960–1279): golden age of Chinese tech, trade, and culture.
+- Yuan Dynasty (1271–1368): Mongol-established, continued many Song policies.
+- Mongol Empire (Genghis Khan): largest contiguous empire in history, from China to Eastern Europe.
+  - Pax Mongolica facilitated trade and cultural exchange.
+- Other notable civilizations:
+  - Byzantine Empire
+  - Western European kingdoms
+  - American civilizations: Maya, Aztec, Inca
+
+#### Major Trade Networks
+- **Silk Roads**: overland routes linking East Asia and the Mediterranean.
+  - Mongol control during Pax Mongolica enhanced trade/culture flow.
+  - caravanserai: Bukhara, Samarkand, Kashgar, Dunhuang
+  - paper money, bills of exchange
+  - frame and mattress saddle
+  - silk, porcelain
+  - buddhism spread from india to central asia and china 
+  - neo-confucianism: rejected religious aspects of BUddhism, and Daoism, took moreal standards of Buddhist teachings and classical texts of Confucianism
+  - Tributary missions
+
+- **Indian Ocean Trade**:
+  - Linked East Africa, Middle East, India, Southeast Asia.
+  - Monsoon winds facilitated travel.
+  - Major hubs: Kilwa, Calicut.
+  - porcelain, spices, cotton goods, incense, ivory, gold
+  - Monsoons - seasonally reversed, NE during summa, SW during winter
+  - Srivijaya - Malay kingdom that dominated straits of amalacca from 670 to 1025
+- **Trans-Saharan Trade**:
+  - Linked West Africa and Mediterranean.
+  - Gold, salt, slaves traded.
+  - Rise of empires like Mali tied to trade.
+- **European Maritime Trade**:
+  - Mediterranean and Baltic seas.
+  - Italian city-states (Venice, Genoa), Hanseatic League led trade.
+
+#### Cultural and Religious Developments
+- Islam spread across Afro-Eurasia.
+  - Sufism popular, promoted spread and syncretism (e.g., Southeast Asia).
+- Christianity strong in Europe and Byzantine Empire.
+  - Roman Catholic Church (West), Eastern Orthodox (East).
+- Asia: Buddhism, Hinduism, Confucianism persisted.
+  - **Neo-Confucianism** in Song China emphasized moral order.
+- Trade routes facilitated interfaith/intellectual exchanges.
+  - Translation of Greek/Arabic texts in Europe.
+  - Indian science spread to Islamic world.
+  - Emergence of Sikhism, Bhakti movement in India.
+
+#### Technological and Scientific Advancements
+- **Islamic Golden Age**:
+  - Algebra, trigonometry, medicine, hospitals, engineering.
+- **China (Song Dynasty)**:
+  - Movable type printing, gunpowder, magnetic compass.
+  - Shipbuilding/naval tech.
+- Tech diffusion via trade:
+  - Papermaking/printing from China to Islam/Europe.
+  - Islamic medicine to Europe.
+- Agricultural innovations:
+  - Champa rice increased Chinese yields.
+  - Irrigation systems improved.
+- Military tech evolved, esp. gunpowder weapons.
+
+#### Political Structures and Empires
+- **Mongols**:
+  - Created Yuan (China), Ilkhanate (Persia).
+  - Enabled trade, caused destruction.
+- **Islamic States**:
+  - Mamluks repelled Mongols in Egypt/Syria.
+  - Delhi Sultanate ruled much of India.
+- **Europe**:
+  - Feudalism: decentralized lords and vassals.
+  - Urban growth → rising town autonomy.
+- **Byzantine Empire**: weakened post–Fourth Crusade (1204), still influential.
+- **Africa and Americas**:
+  - Mali Empire thrived in West Africa.
+  - Aztec and Inca rose in Mesoamerica and Andes.
+
+#### Social and Economic Systems
+- Agriculture was primary economic base.
+  - **Feudalism** in Europe/Japan: serfs, vassals, lords.
+  - **Iqta system** in Islamic world (land grants).
+- Urbanization and trade spurred new classes:
+  - Merchants, guilds (Europe/Islam).
+  - Scholar-gentry in China (merit-based).
+- Forced labor:
+  - Trans-Saharan slave trade.
+  - Plantation slavery in Med/Americas.
+- Gender:
+  - Patriarchy common, but women had roles (Southeast Asia trade/politics).
+  - Foot binding in China as gender marker.
+- Social hierarchies by birth, wealth, and job.
+
+#### Artistic and Intellectual Achievements
+- **Islamic World**:
+  - Architecture: mosques, madrasas.
+  - Calligraphy, textiles, ceramics.
+- **Europe**:
+  - Gothic architecture (Notre-Dame, Chartres).
+- **China**:
+  - Landscape painting, poetry.
+  - Porcelain and blue-white ceramics.
+- Intellectual developments:
+  - Scholasticism (Europe): logic + theology.
+  - Islamic philosophers: Averroes, Avicenna.
+  - Neo-Confucianism: blend of Confucian/Buddhist/Daoist thought.
+  - Oral traditions: *Sundiata* epic, Icelandic sagas.
+
+#### Environmental and Demographic Changes
+- **Medieval Warm Period** (950–1250):
+  - Better farming → population growth.
+  - Viking settlements expanded.
+- **Little Ice Age** (1300–1850):
+  - Climate cooling → crop failures, famines.
+  - Viking Greenland abandoned.
+- **Black Death** (1347–1351):
+  - Killed 30–60% of Europe’s population.
+  - Spread via Silk Roads and Mongol expansion.
+  - Upheaval in society, economy, religion.
+- Urban growth stressed sanitation, spreading disease.
+- Eurasian trade helped spread crops, tech, AND disease.
